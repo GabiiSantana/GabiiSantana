@@ -24,7 +24,7 @@
 <br><br>
     
 ### Minha comunidade
-<a href="https://discord.gg/Yw3n67Z9Yk">
+<a href="https://discord.gg/gabicode">
   <img align="center" alt="Rafa-CSS" height="40" width="150" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
