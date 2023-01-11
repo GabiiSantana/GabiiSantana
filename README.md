@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Gabrielly Sant'Ana, mais conhecida como GabiCode 👋
 <br>
 
-- 🔭 Estou trabalhando em Front-end.
-- 🌱 Estou aprendendo Linguagens de Back-end.
+- 🔭 Estou trabalhando em Front-end e Desenvolvimento de Sofware.
+- 🌱 Estou aprendendo Linguagens de Engenharia de Software.
 - 💬 Me pergunte sobre Desenvolvimento web.
 - 📫 Como chegar até mim: Minhas redes sociais!
 - ⚡ Fato divertido: Amo ensinar :)
