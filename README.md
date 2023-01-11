@@ -20,7 +20,7 @@
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabi-C++" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
+  <img align="center" alt="Gabi-C++" height="50" width="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
 </div>
 <br><br>
     
