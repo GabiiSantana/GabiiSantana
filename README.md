@@ -13,6 +13,8 @@
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabi-bootstrap" height="30" width="26" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png">  
+  <img align="center" alt="Gabi-php" height="30" width="26" src="https://cdn.iconscout.com/icon/free/png-256/php-3521631-2945075.png">
   <img align="center" alt="Gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabi-C++" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">        
   <img align="center" alt="Gabi-C" height="30" width="28" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png">
