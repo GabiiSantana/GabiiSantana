@@ -31,8 +31,8 @@
   <a href="https://discord.gg/gabicode">
   <img alt="Gabi-CSS" height="29" width="110" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-<br>
-<br>
+<br><br><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabiiSantana&show_icons=true&locale=en&layout=compact" alt="GabiiSantana" /><br><br><br><br><br><br><br><br><br>
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
