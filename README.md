@@ -1,14 +1,10 @@
-### Olá 👋! Meu nome é Gabrielly Sant' Ana Silva, mais conhecida como GabiCode
-#### Desenvolvedora de Software, Programadora web e Designer.
---------------------------------------------------------
+### Oii👋! Meu nome é Gabi
 
-Sou Programadora Web a mais de 4 anos, atualmente tenho 17 e estou sempre estudando e querendo saber mais sobre as coisas. Estou migrando para Desenvolvimento de Software Desktop. Comecei a me interessar por programação aos 14 anos, e desde então me atualizo a cada dia, estudo a cada dia para me tornar cada vez melhor no que faço. Se quiser ver um pouco, tenho um canal no YouTube (sobre desenvolvimento web, só falo sobre html e css no meu canal para ajudar iniciantes), lá você encontra meus aprendizados, minhas experiências e meus projetos, hoje tenho mais de 4 mil alunos. Interessados, clique aqui: https://www.youtube.com/gabicode
+Tenho 18 anos e atuo na área de Segurança da Informação, com foco em Red Team / Pentest ofensivo. Estou em busca da minha primeira oportunidade profissional na área. Já trabalhei como freelancer no desenvolvimento de aplicações web, o que me proporcionou uma boa base para entender aplicações do ponto de vista do atacante.
 
-- 🔭 Estou trabalhando em Front-end e Desenvolvimento de Sofware. <br>
-- 🌱 Estou aprendendo Linguagens de Engenharia de Software. <br>
-- 💬 Me pergunte sobre Desenvolvimento web.  <br>
-- 📫 Como chegar até mim: Minhas redes sociais! <br>
-- ⚡ Fato divertido: Amo ensinar :)
+Sou movida por desafios e pela curiosidade em explorar sistemas, identificar vulnerabilidades e pensar como um adversário real. Acredito que a cibersegurança ofensiva exige criatividade, estudo contínuo e mentalidade estratégica, e é exatamente isso que me motiva a seguir nessa área.
+
+Meu objetivo é ajudar empresas a fortalecerem sua segurança, simulando ataques reais e contribuindo para a melhoria contínua dos seus sistemas. Também busco compartilhar conhecimento com outros profissionais e crescer junto com a comunidade de segurança.
 
 
 ### Skills
