@@ -1,6 +1,6 @@
 ### Oii👋! Meu nome é Gabi
 
-Tenho 18 anos e atuo na área de Segurança da Informação, com foco em Red Team / Pentest ofensivo. Estou em busca da minha primeira oportunidade profissional na área. Já trabalhei como freelancer no desenvolvimento de aplicações web, o que me proporcionou uma boa base para entender aplicações do ponto de vista do atacante.
+Tenho 19 anos e atuo na área de Segurança da Informação, com foco em Red Team / Pentest ofensivo. Estou em busca da minha primeira oportunidade profissional na área. Já trabalhei como freelancer no desenvolvimento de aplicações web, o que me proporcionou uma boa base para entender aplicações do ponto de vista do atacante.
 
 Sou movida por desafios e pela curiosidade em explorar sistemas, identificar vulnerabilidades e pensar como um adversário real. Acredito que a cibersegurança ofensiva exige criatividade, estudo contínuo e mentalidade estratégica, e é exatamente isso que me motiva a seguir nessa área.
 
