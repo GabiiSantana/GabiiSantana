@@ -1,10 +1,6 @@
 ### Oii👋! Meu nome é Gabi
 
-Tenho 19 anos e atuo na área de Segurança da Informação, com foco em Red Team / Pentest ofensivo. Estou em busca da minha primeira oportunidade profissional na área. Já trabalhei como freelancer no desenvolvimento de aplicações web, o que me proporcionou uma boa base para entender aplicações do ponto de vista do atacante.
-
-Sou movida por desafios e pela curiosidade em explorar sistemas, identificar vulnerabilidades e pensar como um adversário real. Acredito que a cibersegurança ofensiva exige criatividade, estudo contínuo e mentalidade estratégica, e é exatamente isso que me motiva a seguir nessa área.
-
-Meu objetivo é ajudar empresas a fortalecerem sua segurança, simulando ataques reais e contribuindo para a melhoria contínua dos seus sistemas. Também busco compartilhar conhecimento com outros profissionais e crescer junto com a comunidade de segurança.
+Me chamo Gabrielly, tenho 19 anos, sou uma Desenvolvedora de software. O meu objetivo é o cargo Desenvolvedora de software junior ou um estágio na área da tecnologia.
 
 
 ### Skills
