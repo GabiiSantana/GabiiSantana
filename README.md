@@ -1,6 +1,10 @@
 ### Oii👋! Meu nome é Gabi
 
-Me chamo Gabrielly, tenho 19 anos, sou uma Desenvolvedora de software. O meu objetivo é o cargo Desenvolvedora de software junior ou um estágio na área da tecnologia.
+Tenho 19 anos e atuo na área de Desenvolvimento de Software, com foco em desenvolvimento PHP. Atualmente sou estagiária de desenvolvimento na DBSeller e sigo aprimorando meus conhecimentos na área de tecnologia e desenvolvimento de aplicações. Sou movida por desafios e pela curiosidade de criar, otimizar e compreender sistemas de forma eficiente. Já trabalhei como freelancer no desenvolvimento de aplicações web, mobile e em projetos de UI/UX, adquirindo experiência prática na construção de soluções digitais.
+
+Tenho conhecimento em tecnologias como PHP, Java, C++, C, Python, HTML5, CSS3, Bootstrap, JavaScript, TypeScript, React, Docker e Azure DevOps, além de estar sempre buscando aprender novas ferramentas e evoluir tecnicamente. Acredito que desenvolver software vai muito além de escrever código: envolve resolver problemas, inovar e criar soluções que gerem impacto real para pessoas e empresas. Gosto de aprender continuamente, explorar novas tecnologias e aprimorar minhas habilidades técnicas e criativas.
+
+Meu objetivo é crescer profissionalmente como desenvolvedora, contribuindo com aplicações robustas, escaláveis e bem estruturadas, enquanto evoluo junto da comunidade de tecnologia.
 
 
 ### Skills
